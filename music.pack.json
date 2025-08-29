@@ -1,0 +1,10 @@
+{
+  "name": "TECHNOuchi - 兄弟の絆",
+  "description": "Musica de TECHNOUCHI ambience",
+  "author": "V1-N1-C1-U$",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
